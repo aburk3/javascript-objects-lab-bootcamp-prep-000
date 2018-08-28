@@ -23,4 +23,4 @@ function deleteFromObjectByKey(object, key) {
 function destructivelyDeleteFromObjectByKey(object, key) {
   
 }
-var myRecipe = {
+var myRecipe = { chicken: 4 }
