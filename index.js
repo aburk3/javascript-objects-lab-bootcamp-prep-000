@@ -24,4 +24,4 @@ function destructivelyDeleteFromObjectByKey(object, key) {
   
 }
 var myRecipe = { chicken: 4 }
-destructivelyDeleteFromObjectByKey(myRecipe, 'lettuce', '6 heads')
+destructivelyDeleteFromObjectByKey(myRecipe, 'lettuce')
